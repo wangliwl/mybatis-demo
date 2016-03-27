@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * Created by qiuzhanghua on 16/2/24.
+ * edit by wangli 2016/3/27
  */
 @Controller
 @RequestMapping(value="/")
