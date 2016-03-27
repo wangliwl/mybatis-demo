@@ -1,3 +1,1 @@
-# mybatis-demo
-
-Spring boot with MyBatis
+王莉的git练习。
